@@ -1,0 +1,41 @@
+id_fornecedor,nome_fornecedor,tipo_fornecedor,cidade,estado
+1,Fornecedor 001,Imposto,Recife,PE
+2,Fornecedor 002,Serviço,Joinville,SC
+3,Fornecedor 003,Produto,Jaboatão dos Guararapes,PE
+4,Fornecedor 004,Outros,Santos,SP
+5,Fornecedor 005,Aluguel,Campinas,SP
+6,Fornecedor 006,Outros,Rio de Janeiro,RJ
+7,Fornecedor 007,Imposto,São Paulo,SP
+8,Fornecedor 008,Serviço,Caxias do Sul,RS
+9,Fornecedor 009,Serviço,Rio de Janeiro,RJ
+10,Fornecedor 010,Produto,Santos,SP
+11,Fornecedor 011,Imposto,Recife,PE
+12,Fornecedor 012,Aluguel,Florianópolis,SC
+13,Fornecedor 013,Produto,Uberlândia,MG
+14,Fornecedor 014,Serviço,Jaboatão dos Guararapes,PE
+15,Fornecedor 015,Imposto,Rio de Janeiro,RJ
+16,Fornecedor 016,Outros,Caxias do Sul,RS
+17,Fornecedor 017,Outros,Salvador,BA
+18,Fornecedor 018,Imposto,Jaboatão dos Guararapes,PE
+19,Fornecedor 019,Serviço,Feira de Santana,BA
+20,Fornecedor 020,Outros,Salvador,BA
+21,Fornecedor 021,Imposto,Rio de Janeiro,RJ
+22,Fornecedor 022,Imposto,Porto Alegre,RS
+23,Fornecedor 023,Serviço,Caxias do Sul,RS
+24,Fornecedor 024,Aluguel,Santos,SP
+25,Fornecedor 025,Imposto,Curitiba,PR
+26,Fornecedor 026,Aluguel,Curitiba,PR
+27,Fornecedor 027,Aluguel,Santos,SP
+28,Fornecedor 028,Produto,São Paulo,SP
+29,Fornecedor 029,Aluguel,Rio de Janeiro,RJ
+30,Fornecedor 030,Produto,Porto Alegre,RS
+31,Fornecedor 031,Serviço,Curitiba,PR
+32,Fornecedor 032,Aluguel,Rio de Janeiro,RJ
+33,Fornecedor 033,Serviço,Feira de Santana,BA
+34,Fornecedor 034,Outros,Recife,PE
+35,Fornecedor 035,Imposto,Londrina,PR
+36,Fornecedor 036,Outros,Curitiba,PR
+37,Fornecedor 037,Outros,Rio de Janeiro,RJ
+38,Fornecedor 038,Produto,Caxias do Sul,RS
+39,Fornecedor 039,Produto,Curitiba,PR
+40,Fornecedor 040,Outros,Curitiba,PR

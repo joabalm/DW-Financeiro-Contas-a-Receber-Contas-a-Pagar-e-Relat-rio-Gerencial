@@ -1,0 +1,51 @@
+id_cliente,nome_cliente,segmento,cidade,estado
+1,Cliente 001,Tecnologia,Londrina,PR
+2,Cliente 002,Tecnologia,Joinville,SC
+3,Cliente 003,Indústria,Curitiba,PR
+4,Cliente 004,Indústria,Recife,PE
+5,Cliente 005,Comércio,Caxias do Sul,RS
+6,Cliente 006,Serviços,Belo Horizonte,MG
+7,Cliente 007,Tecnologia,Londrina,PR
+8,Cliente 008,Comércio,Curitiba,PR
+9,Cliente 009,Serviços,Santos,SP
+10,Cliente 010,Serviços,Recife,PE
+11,Cliente 011,Tecnologia,Salvador,BA
+12,Cliente 012,Indústria,Recife,PE
+13,Cliente 013,Comércio,Caxias do Sul,RS
+14,Cliente 014,Indústria,Londrina,PR
+15,Cliente 015,Comércio,Florianópolis,SC
+16,Cliente 016,Comércio,Campinas,SP
+17,Cliente 017,Tecnologia,Curitiba,PR
+18,Cliente 018,Indústria,Joinville,SC
+19,Cliente 019,Indústria,Campinas,SP
+20,Cliente 020,Comércio,Curitiba,PR
+21,Cliente 021,Indústria,Curitiba,PR
+22,Cliente 022,Tecnologia,Santos,SP
+23,Cliente 023,Serviços,Joinville,SC
+24,Cliente 024,Tecnologia,Londrina,PR
+25,Cliente 025,Indústria,Belo Horizonte,MG
+26,Cliente 026,Tecnologia,Curitiba,PR
+27,Cliente 027,Tecnologia,Campinas,SP
+28,Cliente 028,Comércio,São Paulo,SP
+29,Cliente 029,Tecnologia,Joinville,SC
+30,Cliente 030,Comércio,Feira de Santana,BA
+31,Cliente 031,Comércio,Feira de Santana,BA
+32,Cliente 032,Serviços,Feira de Santana,BA
+33,Cliente 033,Comércio,Campinas,SP
+34,Cliente 034,Tecnologia,Santos,SP
+35,Cliente 035,Tecnologia,Londrina,PR
+36,Cliente 036,Comércio,Campinas,SP
+37,Cliente 037,Comércio,São Paulo,SP
+38,Cliente 038,Indústria,Jaboatão dos Guararapes,PE
+39,Cliente 039,Serviços,Londrina,PR
+40,Cliente 040,Serviços,Joinville,SC
+41,Cliente 041,Indústria,Londrina,PR
+42,Cliente 042,Serviços,Belo Horizonte,MG
+43,Cliente 043,Comércio,Belo Horizonte,MG
+44,Cliente 044,Serviços,Porto Alegre,RS
+45,Cliente 045,Indústria,Niterói,RJ
+46,Cliente 046,Serviços,Curitiba,PR
+47,Cliente 047,Comércio,Salvador,BA
+48,Cliente 048,Tecnologia,Campinas,SP
+49,Cliente 049,Comércio,Joinville,SC
+50,Cliente 050,Tecnologia,Rio de Janeiro,RJ

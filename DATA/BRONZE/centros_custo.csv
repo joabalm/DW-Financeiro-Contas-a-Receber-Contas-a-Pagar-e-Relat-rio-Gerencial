@@ -1,0 +1,9 @@
+id_centro_custo,nome_centro_custo,tipo
+1,Comercial,Operacional
+2,Operações,Operacional
+3,Administrativo,Administrativo
+4,Financeiro,Administrativo
+5,Tecnologia da Informação,Estratégico
+6,Marketing,Operacional
+7,Logística,Operacional
+8,Recursos Humanos,Administrativo

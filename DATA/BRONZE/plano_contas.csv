@@ -1,0 +1,11 @@
+id_plano_contas,codigo_contabil,descricao,grupo,tipo
+1,3.1.1,Receita de Serviços,Receita,Variável
+2,3.1.2,Receita de Produtos,Receita,Variável
+3,3.2.1,Outras Receitas,Receita,Outras
+10,4.1.1,Salários,Despesa,Fixa
+11,4.1.2,Aluguel,Despesa,Fixa
+12,4.1.3,Energia Elétrica,Despesa,Variável
+13,4.1.4,Internet,Despesa,Fixa
+14,4.2.1,Marketing e Publicidade,Despesa,Variável
+15,4.2.2,Serviços de Terceiros,Despesa,Variável
+16,4.3.1,Impostos,Despesa,Imposto
